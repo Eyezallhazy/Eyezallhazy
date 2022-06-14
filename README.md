@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eyezallhazy
 - 👀 I’m interested in ...full stack development
-- 🌱 I’m currently learning ...HTML CSS Git Github
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...oyesanyat@gmail.com
 
